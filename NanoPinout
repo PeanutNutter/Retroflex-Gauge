@@ -1,0 +1,10 @@
+Pinouts-
+  Nano:
+    A1 --- Wideband 0-5v input
+    D2 --- 7 segment CLK
+    D3 --- 7 segment DIO
+    D4 --- RGB Red output
+    D5 --- RGB Green output
+    D6 --- RGB Blue output
+    D7 --- Button input
+    D8 --- Ethanol Input (50-150hz)
